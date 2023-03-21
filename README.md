@@ -1,4 +1,4 @@
-# Dziennik-studencki---java-project
+# Dziennik-studencki---java-project - wersja z terminalem
 
 Wynik projektu:
 
