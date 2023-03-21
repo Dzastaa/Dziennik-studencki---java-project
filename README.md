@@ -1,6 +1,7 @@
 # Dziennik-studencki---java-project
 
 Wynik projektu:
+
 ![1](https://user-images.githubusercontent.com/86494976/226747706-34819033-3240-4d76-86da-a7c9b409d97d.png)
 
 ![2](https://user-images.githubusercontent.com/86494976/226747712-226b8f63-ab1c-479e-bbf1-9bb83d2fcae0.png)
